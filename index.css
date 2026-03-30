@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap');
 div{
     background-color: #0077BE;
     margin: 0px auto 0px auto;
@@ -8,16 +9,17 @@ div{
 
 }
 h1{
+    font: bold sans-serif 50px italic small-caps ;
     height: 75%;
     background-color: aqua;
-    padding-left: 33px;
+    text-align: center;
     border-radius: 5px 5px 0px 0px;    
 
 
     text-transform: uppercase;
     letter-spacing: 2px;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 3);
+    text-shadow: 2px 2px 4px black;
 color: gold;
-}
 
+}
 
