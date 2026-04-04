@@ -23,6 +23,7 @@ h1{
     text-shadow: 2px 2px 4px black;
 color: gold;
 
+
 }
 
 body{
@@ -35,14 +36,16 @@ body{
     width: 20px;
     border-radius: 50%;
     position: absolute;
-    left: 891px;
+    left: 892px;
     top: 30px;
     box-shadow: 0px 0px 10px yellow;
-    transition: 1s;
+    transition: 3s;
 }
 .gga:hover{
     background-color: transparent;
 }
+
+
 
 img{
     border-radius: 10px;
