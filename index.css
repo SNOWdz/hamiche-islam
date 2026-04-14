@@ -39,7 +39,7 @@ body{
     left: 619px;
     top: 48px;
     box-shadow: 0px 0px 10px yellow;
-    transition: 3s;
+    transition: 1s;
 }
 .gga:hover{
     background-color: transparent;
